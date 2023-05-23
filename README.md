@@ -1,2 +1,9 @@
 # INGE-SOF-2
-Ingeniería de sofwer 2 profesor Mario Azures
+Ingeniería de sofwer 2
+Dr. Mario Azures Garcia
+Integrantes:
+JOSE FRANCISCO ANTONIO LEDO 202027469,
+OSCAR DIAZ AMARO 202034104,
+JORGE EDUARDO LEYVA DIAZ 202043147,
+GEOVANI ISAI HERNANDEZ ANDRES 202039856,
+Proyecto: Aplicación pra adultos mayores (OLDAPP)
